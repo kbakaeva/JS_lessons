@@ -3,6 +3,9 @@ import Lesson13 from './lessons/lesson13';
 import Lesson14 from './lessons/lesson14';
 import Lesson15 from './lessons/lesson15';
 import Lesson16 from './lessons/lesson16';
+import Lesson17 from './lessons/lesson17';
+import Lesson18 from './lessons/lesson18';
+import Lesson19 from './lessons/lesson19';
 
 function App() {
   return (
@@ -15,6 +18,12 @@ function App() {
       <Lesson15 />
       <hr />
       <Lesson16 />
+      <hr />
+      <Lesson17 />
+      <hr />
+      <Lesson18 />
+      <hr />
+      <Lesson19 />
     </div>
   );
 }
